@@ -1,2 +1,6 @@
 # DHWI Hardware Cohort Cameron Boyer
-DHWI Test Repository
+<ol>
+  1. *First*
+  2. **Second**
+  3. ' Third '
+</ol>
